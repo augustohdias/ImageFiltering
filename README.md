@@ -1,6 +1,6 @@
 # Image Filtering
 
-A ```.npm``` image basic processor using native C++.
+C++ native ```.npm``` basic image processor.
 
 # Features
 
