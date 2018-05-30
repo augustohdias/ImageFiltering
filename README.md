@@ -32,5 +32,4 @@ ulimit -s unlimited
  - Add new filters;
  - Add resize;
  - Add multi-size support;
- - Any image size support;
  - ...
